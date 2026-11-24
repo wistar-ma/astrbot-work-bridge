@@ -1,0 +1,5 @@
+name: work_bridge
+display_name: 干活桥
+desc: 聊天里 /work 派活，外部工人（.82 上的 opencode）轮询取活、干完把结果推回原会话
+version: 1.0.0
+author: wistar
