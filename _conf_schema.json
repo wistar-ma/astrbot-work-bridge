@@ -1,0 +1,1 @@
+{"admin_senders":{"default":"","description":"允许派活的发送者ID（逗号分隔）","hint":"留空时改用 AstrBot 管理员判断；/work 被拒时机器人会报出你的发送者ID，把它填到这里","type":"string"},"work_token":{"default":"","description":"工人口令（.82 的工人轮询/回传接口时必须带上）","hint":"一串随机字符串；工人请求头 X-Work-Token 或参数 token 中带上","type":"string"}}
